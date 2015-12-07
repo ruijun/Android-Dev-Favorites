@@ -2,3 +2,5 @@
 *
 # Except this file
 !.gitignore
+.DS_Store
+*/.DS_Store

@@ -1,0 +1,22 @@
+###Android Studio插件
+---
+
+依次点击Studio面板上File - Plugins
+输入插件名称搜索，安装完成重启Studio就可以了
+
+* `ADB Idea ADB`操作快捷菜单，快速清除数据，重启应用，卸载应用等操作
+* `Annotations` 配合Annotation框架快速生成控件绑定代码，同Android ButterKnife Zeleny ，本来都是用ButterKnife，生成快速绑定代码，后面开发的都是Lib库没办法使用ButterKnife只好转Annotations库
+* `Drawable Importer` 需要配合google/material-design-icons · GitHub、Android Icons使用，安装后在设置菜单多出来的选项中设置
+* `Parcelable Code Generator` 快速生成Parcelable代码
+* `Accessors` 按照Google官方的开发规范，类的成员变量以m开头，此插件可快速生成成员变量的set/get方法但是不带m
+* `SelectorChapek` 插件库好多生成Selector的插件，还是这个用的最顺，按照不同状态(normal、pressed)的标准命名后，右键文件树Generate Android 
+* `utterKnife Zelezny`ButterKnife 生成器
+* `GsonFormat` 根json数据格式生成相应的实体类
+* `Genymotion` 强大的模拟器
+* `Settings Repository` 不同设备之间同步Android Studio的配置
+
+
+备注：
+[What are some of the best Android Studio plugins?](http://www.quora.com/What-are-some-of-the-best-Android-Studio-plugins)
+[The Top 8 Plugins for Android Studio](http://www.sitepoint.com/top-8-plugins-android-studio/)
+[Android Studio Plugins](https://plugins.jetbrains.com/?androidstudio)

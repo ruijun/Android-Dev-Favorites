@@ -17,6 +17,6 @@
 
 
 备注：
-[What are some of the best Android Studio plugins?](http://www.quora.com/What-are-some-of-the-best-Android-Studio-plugins)
-[The Top 8 Plugins for Android Studio](http://www.sitepoint.com/top-8-plugins-android-studio/)
-[Android Studio Plugins](https://plugins.jetbrains.com/?androidstudio)
+[What are some of the best Android Studio plugins?](http://www.quora.com/What-are-some-of-the-best-Android-Studio-plugins)  
+[The Top 8 Plugins for Android Studio](http://www.sitepoint.com/top-8-plugins-android-studio/)  
+[Android Studio Plugins](https://plugins.jetbrains.com/?androidstudio)  

@@ -20,3 +20,7 @@
 * [写出好的 commit message](https://ruby-china.org/topics/15737)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [git使用笔记](http://jslite.io/2015/04/01/git%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/)
+* [使用git和github进行协同开发流程](http://livoras.com/post/28)
+* [Git 速查表](http://itmyhome.com/git-sheet/)
+* [xirong/my-git 个人学习git的资料整理](https://github.com/xirong/my-git/)
+* [Git 常用命令](http://liujin.me/blog/2015/05/25/Git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)

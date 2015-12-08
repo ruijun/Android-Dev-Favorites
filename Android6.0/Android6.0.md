@@ -1,0 +1,39 @@
+###技术文章
+* [Android 6.0 中新的新技术](http://www.race604.com/whats-new-in-android6-0/)
+* [Android M 新的运行时权限开发者需要知道的一切](http://gold.xitu.io/entry/55e2fa1a00b075a5f29a261c)
+* [在Android 6.0 设备上动态获取权限](http://maoruibin.github.io/%E6%8A%80%E6%9C%AF/2015/11/10/android_m_permission.html)
+* [浅谈Android 6.0之Runtime Permissions](http://www.cnblogs.com/zqlxtt/p/4873831.html)
+* [Android 6.0 运行时权限处理](http://www.aswifter.com/2015/11/04/android-6-permission/)
+* [Android M(6.0) 权限爬坑之旅](https://yanlu.me/android-m6-0-permission-chasm/)
+* [Android M新特性Doze and App Standby模式详解](http://zhuanlan.zhihu.com/magilu/20323263)
+* [解决方法：android 6.0(api 23) SDK，不再提供org.apache.http.*(只保留几个类)](http://blog.csdn.net/yy1300326388/article/details/48784475)
+
+
+
+###有关权限开源项目
+#####PermissionsDispatcher
+Github地址：https://github.com/hotchemi/PermissionsDispatcher
+
+#####RxPermissions
+Github地址：https://github.com/tbruyelle/RxPermissions
+
+#####Grant
+Github地址：https://github.com/anthonycr/Grant
+
+#####android-RuntimePermissions
+Github地址：https://github.com/googlesamples/android-RuntimePermissions
+
+#####Dexter
+Github地址：https://github.com/Karumi/Dexter
+
+#####Nammu
+Github地址：https://github.com/tajchert/Nammu
+
+#####m-permissions-checker
+Github地址：https://github.com/hotchemi/m-permissions-checker
+
+#####PermissionsDispatcher
+Github地址：https://github.com/hotchemi/PermissionsDispatcher
+
+
+

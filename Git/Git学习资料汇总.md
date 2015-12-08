@@ -1,12 +1,9 @@
-- Github
----
-
-![](http://i1.tietuku.com/0fdf84cd8c01c4c2.jpg)
+##Git资料汇总
+--------------------------------
 
 * [怎么快速开始使用Git](http://sixrevisions.com/web-development/easy-git-tutorial/)
 * [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [试试Git – 15分钟的Git交互教程](https://try.github.io/levels/1/challenges/1)
-<!--more-->
 * [提示和技巧（Ry的Git教学）是常见Git功能的实践教程](http://rypress.com/tutorials/git/tips-and-tricks)
 * [Git简单指南](http://rogerdudler.github.io/git-guide/)
 * [Git Ready是一个收藏有许多简单而简短的Git提示的网站](http://gitready.com/)
@@ -22,5 +19,5 @@
 * [git使用笔记](http://jslite.io/2015/04/01/git%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/)
 * [使用git和github进行协同开发流程](http://livoras.com/post/28)
 * [Git 速查表](http://itmyhome.com/git-sheet/)
-* [xirong/my-git 个人学习git的资料整理](https://github.com/xirong/my-git/)
+* [xirong/my-git-个人学习git的资料整理](https://github.com/xirong/my-git/)
 * [Git 常用命令](http://liujin.me/blog/2015/05/25/Git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)

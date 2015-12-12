@@ -45,7 +45,3 @@ Github地址：https://github.com/JavaBy/awesome-kotlin
 #####Bandhook-Kotlin
 Github地址：https://github.com/antoniolg/Bandhook-Kotlin
 
-###其他资料
-* [Ticwear 全中文操作系统Moto 360刷表教程](http://www.soku.com/search_video/q_Ticwear%20%E5%85%A8%E4%B8%AD%E6%96%87%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FMoto%20360%E5%88%B7%E8%A1%A8%E6%95%99%E7%A8%8B?_rp=14340886517162Do)
-* [Ticwear智能手表应用开发SDK](http://developer.ticwear.com)
-

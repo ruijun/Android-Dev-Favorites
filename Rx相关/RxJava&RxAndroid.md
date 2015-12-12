@@ -9,6 +9,7 @@
 * [RxJava专题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0430/2815.html)
 * [RxAndroid初探](http://coderrobin.com/2015/07/17/RxAndroid%E5%88%9D%E6%8E%A2/)
 * [那些年我们错过的响应式编程](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E9%94%99%E8%BF%87%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B)
+* [RxJava 入门](http://www.jianshu.com/p/fa3b31f8f47d)
 
 
 ###开源项目
@@ -52,7 +53,7 @@ Github地址：https://github.com/tbruyelle/RxPermissions
 Lifecycle handling APIs for Android apps using RxJava
 Github地址：https://github.com/trello/RxLifecycle
 
-#####其他
+###其他
 Learning RxJava (for Android) by example : https://www.youtube.com/watch?v=k3D0cWyNno4
 
 

@@ -6,7 +6,6 @@
 [flurry](http://www.flurry.com/)  
 [Applause](http://www.applause.com/mobile-sdk)  
 [Parse Crash Reporting](http://blog.parse.com/learn/introducing-parse-crash-reporting-2/)  
-[Testin Crash Analytics](http://www.itestin.com/)  
 [Acra](https://github.com/ACRA/acra)
 
 

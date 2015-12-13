@@ -4,8 +4,7 @@
 > The repository is Android development favorites, It used to collect the knowledge of Android Development.  
 > Android开发者的收藏夹
 
-
-# About Me
+# Contact Me
 * Email: lingdududu@163.com  
 * Blog: http://blog.liangruijun.com/
 
@@ -18,4 +17,7 @@ or
 
 
 我会不断完善，不断丰富收藏夹的内容
+
+# Thanks
+感谢收藏夹里面开发大咖，文章的作者，源码的作者，开发团队，Android开发因为有你们而变得更加的美好，更加的有效率!
 

@@ -7,6 +7,7 @@
 # Contact Me
 * Email: lingdududu@163.com  
 * Blog: http://blog.liangruijun.com/
+* Zhihu: https://www.zhihu.com/people/liangruijun
 
 # Welcome
 欢迎大家Fork, Star, Issues  

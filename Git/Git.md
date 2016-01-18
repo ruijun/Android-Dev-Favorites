@@ -7,7 +7,7 @@
 * [提示和技巧（Ry的Git教学）是常见Git功能的实践教程](http://rypress.com/tutorials/git/tips-and-tricks)
 * [Git简单指南](http://rogerdudler.github.io/git-guide/)
 * [Git Ready是一个收藏有许多简单而简短的Git提示的网站](http://gitready.com/)
-* [Git作弊码](http://www.git-tower.com/blog/git-cheat-sheet/)
+* [git-cheat-sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 * [Git Tower学习区是一个在我的网站上的Git学习资源列表](http://www.git-tower.com/learn/)
 * [Git官方教程](http://git-scm.com/docs/gittutorial)
 * [Training: Git Basics (视频)是YouTube上的一个视频列表](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
@@ -22,3 +22,4 @@
 * [xirong/my-git-个人学习git的资料整理](https://github.com/xirong/my-git/)
 * [Git 常用命令](http://liujin.me/blog/2015/05/25/Git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
 * [使用git和github进行协同开发流程](http://livoras.com/post/28)
+* [稀土Git资料](http://gold.xitu.io/tag/Git)

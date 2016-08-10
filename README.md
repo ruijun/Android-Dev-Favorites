@@ -6,7 +6,7 @@
 
 # Contact
 * Email: lingdududu@163.com  
-* Blog: http://blog.liangruijun.com/
+* HomePage: http://www.liangruijun.com/
 * Zhihu: https://www.zhihu.com/people/liangruijun
 
 # Welcome
